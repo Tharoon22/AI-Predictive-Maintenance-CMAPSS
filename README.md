@@ -92,13 +92,19 @@ The project includes visualizations for:
 
 Shows the relationship between the actual remaining useful life and the RUL predicted by the Random Forest model.
 
+![Actual vs Predicted RUL](results/Phase-5%20Random%20Forest%20-%20Actual%20vs%20Predicted%20RUL.png)
+
 ### Feature Importance
 
 Identifies the sensor-derived features that have the greatest influence on the model's predictions.
 
+![Top 15 Feature Importance](results/Phase-5%20Top%2015%20features%20driving%20model%20predictions.png)
+
 ### Engine RUL Tracking
 
 Tracks the actual and predicted RUL of an individual test engine over its operating cycles.
+
+![Engine Unit-5 RUL Tracking](results/Phase-5%20Engine%20Unit-5%20RUL%20tracking%20over%20time.png)
 
 ## 🛠️ Technologies Used
 
@@ -175,4 +181,4 @@ Possible improvements include:
 
 **Tharoon K**
 B.E. Automobile Engineering
-Madras Institute of Technology, Chennai
+Madras Institute of Technology, Anna University
